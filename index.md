@@ -1,4 +1,4 @@
-# Algorithm Notes
-## Created by zay
-
-## yay
+# Segment Trees
+```
+a = b + c
+```
