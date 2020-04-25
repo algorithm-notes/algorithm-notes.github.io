@@ -1,51 +1,8 @@
 # Segment Trees
-## pseudocode
-```cpp
-struct Node {
-    int l, r;
-    Node *lc, *rc;
-    int max;
-    
-    Node(int l, int r) : l(l), r(r), lc(nullptr), rc(nullptr), max(0) {
-    }
-    
-    void clean() {
-        if (l != r && !lc) {
-            int m = (l + r) / 2;
-            lc = new Node(l, m);
-            rc = new Node(m + 1, r);
-        }
-    }
-    
-    void set(int p, int v) {
-        clean();
-        
-        if (p < l || p > r) {
-            return;
-        }
-        
-        if (l == r) {
-            max = v;
-            return;
-        }
-        
-        lc->set(p, v);
-        rc->set(p, v);
-        max = std::max(lc->max, rc->max);
-    }
-    
-    int query(int ql, int qr) {
-        clean();
-        
-        if (qr < l || ql > r) {
-            return 0;
-        }
-        
-        if (ql <= l && qr >= r) {
-            return max;
-        }
-        
-        return std::max(lc->query(ql, qr), rc->query(ql, qr));
-    }
-};
-```
+A segment tree is an organized set of ranges with 
+stored results of combined operations. 
+For example, with `a = [2, 5, 7, 2, 8, 5, 7]` 
+and we store `sum(a[2:5]) = 17`
+and we want to know `sum(a[1:7])`.
+Instead of working out `sum(a[1:7]) = sum(a[1], a[2], a[3], a[4], a[5], a[6])`
+we can simply work out `sum(a[1:7]) = sum(a[1], a[2:5], a[5], a[6])` assuming we already have `sum(a[2:5])` computed.
