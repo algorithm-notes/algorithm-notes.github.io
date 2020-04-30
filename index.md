@@ -2,8 +2,6 @@
 
 #### A site dedicated to notes for Competitive Programming. Written by **Jerry Li** and **Arthur Sun**
 
-# Algorithm Notes for Competitive Programming
-
 ## Prerequisites
 These notes assumes the reader knows basic c++ (c++ is better than python) syntax including:
 - Basic control structures
