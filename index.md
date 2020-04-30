@@ -1,5 +1,5 @@
-title: [Algorithm Notes for Competitive Programming]
-description: [A site dedicated to notes for Competitive Programming. Written by Jerry Li and Arthur Sun]
+# [Algorithm Notes for Competitive Programming]
+### [A site dedicated to notes for Competitive Programming. Written by Jerry Li and Arthur Sun]
 # Algorithm Notes for Competitive Programming
 ## Prerequisites
 These notes assumes the reader knows basic c++ syntax including:
@@ -18,7 +18,7 @@ Some problems may be from POJ.
 
 ## [Basic Notes](/Basic_Notes/)
 [Basic Graphs Theory:](/Basic_Notes/Basic_Graph_Theory/)
-- [Adjacency matrix/list](/Basic_Notes/Basic_Graph_Theory/Adjacency_Matrix)
+- [Adjacency matrix/list](/Basic_Notes/Basic_Graph_Theory/Adjacency_Matrix_List)
 - BFS
 - DFS
 - Dijkstra
