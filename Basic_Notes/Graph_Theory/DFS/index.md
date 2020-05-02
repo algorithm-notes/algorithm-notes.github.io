@@ -2,6 +2,8 @@
 
 [home](/)
 
+![](/diagram1.gif)
+
 ## Minimal example
 ```cpp
 void dfs(int i) {

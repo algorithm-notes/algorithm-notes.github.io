@@ -23,6 +23,7 @@ for (int i = 0; i < N; ++i) {
       // if this doesn't change, then there's no edge btw i and j
       matrix[i][j] = marker;
     }
+    // assuming j.first = node id, j.second = edge weight
     for (std::pair<int, int>& j : adjlist[i]) {
         matrix[i][j.first] = j.second;
     }
@@ -30,5 +31,21 @@ for (int i = 0; i < N; ++i) {
 ```
 
 ### Adjacency List
+
+Minimal example:
+
+```c++
+std::vector<std::pair<int, int>> adjlist[N];
+
+int marker = 69696969;
+
+// ********************* //
+
+for (auto& a : adjlist[i]) {
+    a.first // node id
+    a.second // edge weight
+    // Yay! we just retrieved all the node ids adjacent to node i *and* their edge weights! 
+}
+```
 
 ## Trees
