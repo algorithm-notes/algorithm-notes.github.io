@@ -1,4 +1,4 @@
-# Basic Notes (Basic = December Level)
+# Basic Notes
 
 [Basic Graphs Theory:](/Basic_Notes/Graph_Theory/)
 - [Graph Representation](/Basic_Notes/Graph_Theory/Graph_Representation)

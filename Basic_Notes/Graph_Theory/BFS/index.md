@@ -1,5 +1,9 @@
 # Breath First Search (BFS)
 
+Breath first search explores the nodes in the shortest path possible.
+
+![](/diagram1.gif)
+
 ## Minimal example
 ```cpp
 void bfs(int i) {
