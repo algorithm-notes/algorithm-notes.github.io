@@ -14,28 +14,10 @@ You should also have a Codeforces account as you may wish to do some example pro
 Some problems may be from POJ.
 
 ## [Basic Notes](/Basic_Notes/)
-[Basic Graphs Theory:](/Basic_Notes/Basic_Graph_Theory/)
-- [Graph Representation](/Basic_Notes/Basic_Graph_Theory/Graph_Representation)
-- [BFS](/Basic_Notes/Basic_Graph_Theory/BFS)
-- [DFS](/Basic_Notes/Basic_Graph_Theory/DFS)
-- [Dijkstra](/Basic_Notes/Basic_Graph_Theory/Dijkstra)
-- [Bottleneck Algorithm](/Basic_Notes/Basic_Graph_Theory/Bottleneck)
-- [Graph colouring](/Basic_Notes/Basic_Graph_Theory/Graph_colouring)
-- [Union find](/Basic_Notes/Basic_Graph_Theory/Union_Find)
-- [Minimum Spanning Tree](/Basic_Notes/Basic_Graph_Theory/Minimum_Spanning_Tree)
-
-Dynamic Programming:
-- Linear DP
-- 2-Dimensional DP
-
-Basic Algorithms:
-- Binary search
-- Two pointer
-- Sliding window
-
-Basic Data Structures:
-- Sets
-- Priority queues
+- [Basic Graphs Theory:](/Basic_Notes/Graph_Theory)
+- [Basic Dynamic Programming](/Basic_Notes/Dynamic_Programming)
+- [Basic Algorithms]()
+- [Basic Data Structures]()
 
 ## Advanced Notes
 Advanced Graph Theory:
