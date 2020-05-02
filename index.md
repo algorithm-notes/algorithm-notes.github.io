@@ -1,7 +1,3 @@
-# Algorithm Notes for Competitive Programming
-
-#### A site dedicated to notes for Competitive Programming. Written by **Jerry Li** and **Arthur Sun**
-
 ## Prerequisites
 These notes assumes the reader knows basic c++ (c++ is better than python) syntax including:
 - Basic control structures
@@ -19,14 +15,14 @@ Some problems may be from POJ.
 
 ## [Basic Notes](/Basic_Notes/)
 [Basic Graphs Theory:](/Basic_Notes/Basic_Graph_Theory/)
-- [Adjacency matrix/list](/Basic_Notes/Basic_Graph_Theory/Adjacency_Matrix_List)
-- BFS
-- DFS
-- Dijkstra
-- Bottleneck Algorithm
-- Graph colouring
-- Union find
-- Minimum Spanning Tree
+- [Graph Representation](/Basic_Notes/Basic_Graph_Theory/Graph_Representation)
+- [BFS](/Basic_Notes/Basic_Graph_Theory/BFS)
+- [DFS](/Basic_Notes/Basic_Graph_Theory/DFS)
+- [Dijkstra](/Basic_Notes/Basic_Graph_Theory/Dijkstra)
+- [Bottleneck Algorithm](/Basic_Notes/Basic_Graph_Theory/Bottleneck)
+- [Graph colouring](/Basic_Notes/Basic_Graph_Theory/Graph_colouring)
+- [Union find](/Basic_Notes/Basic_Graph_Theory/Union_Find)
+- [Minimum Spanning Tree](/Basic_Notes/Basic_Graph_Theory/Minimum_Spanning_Tree)
 
 Dynamic Programming:
 - Linear DP
