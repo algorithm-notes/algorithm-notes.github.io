@@ -19,7 +19,7 @@ weights[2][4] // this is the weight of the edge from 2 to 4. Yay!
 // a non-existent edge will have weight [marker]
 int marker = 69696969;
 for (int i = 0; i < N; ++i) {
-    for (int i = 0; i < N; ++i) {
+    for (int j = 0; j < N; ++j) {
       // if this doesn't change, then there's no edge btw i and j
       matrix[i][j] = marker;
     }
