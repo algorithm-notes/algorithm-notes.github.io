@@ -4,6 +4,7 @@ Graphs are non-linear data structures that are often used in informatics.
 Basic definitions and terms are listed on this page. More may be found in advanced sections of these notes.
 
 ## Definitions
+
 | Word | Definition |
 | --- | --- |
 | Vertices | A point on the Graph, also called Nodes |

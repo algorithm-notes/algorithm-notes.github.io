@@ -14,7 +14,7 @@ You should also have a Codeforces account as you may wish to do some example pro
 Some problems may be from POJ.
 
 ## [Basic Notes](/Basic_Notes/)
-- [Basic Graphs Theory:](/Basic_Notes/Graph_Theory)
+- [Basic Graphs Theory](/Basic_Notes/Graph_Theory)
 - [Basic Dynamic Programming](/Basic_Notes/Dynamic_Programming)
 - [Basic Algorithms]()
 - [Basic Data Structures]()
