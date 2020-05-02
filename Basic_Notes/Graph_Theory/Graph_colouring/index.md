@@ -1,1 +1,3 @@
-foobar
+# Graph Colouring
+
+[home](/)
