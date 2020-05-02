@@ -1,5 +1,7 @@
 # Basic Notes
 
+[home](/)
+
 [Basic Graphs Theory:](/Basic_Notes/Graph_Theory/)
 - [Graph Representation](/Basic_Notes/Graph_Theory/Graph_Representation)
 - [BFS](/Basic_Notes/Graph_Theory/BFS)

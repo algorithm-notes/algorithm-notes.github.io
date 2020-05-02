@@ -1,4 +1,5 @@
 # Dynamic Programming (DP)
+[home](/)
 ## Introduction
 Dynamic Programming is just a fancy name for "using previous computed results to compute more stuff". It trades memory for time.
 ## Minimal example (Fibonacci)

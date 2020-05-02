@@ -1,3 +1,4 @@
+# Home Page
 ## Prerequisites
 These notes assumes the reader knows basic c++ (c++ is better than python) syntax including:
 - Basic control structures

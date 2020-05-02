@@ -1,6 +1,6 @@
 # Breath First Search (BFS)
 
-Breath first search explores the nodes in the shortest path possible.
+[home](/)
 
 ![](/diagram1.gif)
 

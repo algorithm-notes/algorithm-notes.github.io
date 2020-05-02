@@ -1,1 +1,3 @@
-foobar
+# Bottleneck
+
+[home](/)

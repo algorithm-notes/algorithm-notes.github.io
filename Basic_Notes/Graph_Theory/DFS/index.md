@@ -1,5 +1,7 @@
 #Depth First Search (DFS)
 
+[home](/)
+
 ## Minimal example
 ```cpp
 void dfs(int i) {
