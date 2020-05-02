@@ -2,7 +2,7 @@
 
 [home](/)
 
-A guide on how to represet graphs for informatics
+A guide on how to represent graphs for informatics
 
 ## Basic Graphs
 ### Adjacency Matrix
@@ -36,15 +36,24 @@ Minimal example:
 
 ```c++
 std::vector<std::pair<int, int>> adjlist[N];
+int weights[N][N];
 
 int marker = 69696969;
 
 // ********************* //
+// converting adj lists to adj matrices
 
-for (auto& a : adjlist[i]) {
-    a.first // node id
-    a.second // edge weight
-    // Yay! we just retrieved all the node ids adjacent to node i *and* their edge weights! 
+
+for (int i = 0; i < N; ++i) {
+    for (int j = 0; j < N; ++j) {
+      weights[i][j] = marker;
+    }
+    for (auto& a : adjlist[i]) {
+        a.first; // node id
+        a.second; // edge weight
+        // Yay! we just retrieved all the node ids adjacent to node i *and* their edge weights!
+        weights[i][a.first] = a.second;
+    }
 }
 ```
 
