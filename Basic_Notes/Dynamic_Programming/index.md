@@ -23,5 +23,7 @@ int fib(int n) {
 }
 ```
 
+[this problem on orac](http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=aio19&problemid=1081) can be solved using DP and basic graph theory
+
 ## Pages under DP
 - [Knapsack]()

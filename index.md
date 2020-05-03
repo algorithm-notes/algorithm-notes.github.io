@@ -10,9 +10,9 @@ The reader should know how to calculate complexity and estimate the amount of ti
 
 Other programming languages such as Python is fine, but c++ is strongly recommended for informatics students. Our example code will be in c++.
 
-You should also have a Codeforces account as you may wish to do some example problems for practise.
+You should also have a [codeforces](https://codeforces.com/) account as you may wish to do some example problems for practise.
 
-Some problems may be from POJ.
+Some problems may be from POJ, or [orac](http://orac.amt.edu.au/cgi-bin/train/hub.pl).
 
 ## [Basic Notes](/Basic_Notes/)
 - [Basic Graphs Theory](/Basic_Notes/Graph_Theory)
