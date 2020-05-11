@@ -23,7 +23,7 @@ Some problems may be from POJ, or [orac](http://orac.amt.edu.au/cgi-bin/train/hu
 - [Basic Data Structures](/Basic_Notes/Data_Structures)
 
 ## [Advanced Notes](/Advanced_Notes)
-- [Advanced Graph Theory](/Advanced_Notes/Graph_Theory):
+- [Advanced Graph Theory](/Advanced_Notes/Graph_Theory)
 
 Segment Trees:
 - Lazy Propagation
