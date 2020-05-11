@@ -19,8 +19,8 @@ Some problems may be from POJ, or [orac](http://orac.amt.edu.au/cgi-bin/train/hu
 ## [Basic Notes](/Basic_Notes/)
 - [Basic Graphs Theory](/Basic_Notes/Graph_Theory)
 - [Basic Dynamic Programming](/Basic_Notes/Dynamic_Programming)
-- [Basic Algorithms]()
-- [Basic Data Structures]()
+- [Basic Algorithms](/Basic_Notes/Algorithms)
+- [Basic Data Structures](/Basic_Notes/Data_Structures)
 
 ## [Advanced Notes](/Advanced_Notes)
 - [Advanced Graph Theory](/Advanced_Notes/Graph_Theory):
