@@ -15,3 +15,5 @@ void dfs(int i) {
     }
 }
 ```
+
+This DFS idea is really *really* **really** common in graph theory. As often it is the basis of more complex algorithms.

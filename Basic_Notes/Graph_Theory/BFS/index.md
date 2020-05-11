@@ -23,3 +23,7 @@ void bfs(int i) {
     }
 }
 ```
+
+BFS can be used to find the shortest path between A and B on an unweighted graph.
+
+In many algorithms, it's also used to find the max flow between A and B.
