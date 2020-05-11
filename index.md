@@ -1,10 +1,12 @@
-# Home Page
+# Home Page!!!
 ## Prerequisites
-These notes assumes the reader knows basic c++ (c++ is better than python) syntax including:
+These notes assumes the reader knows basic c++ (c++ is WAY better than python, python is trashy) syntax including:
 - Basic control structures
 - Functions
 - Variables, arrays
 - Vectors, queues, stacks
+- Pointers, pointer arithematic
+- Have fluency in c++
 
 The reader should know how to calculate complexity and estimate the amount of time the program will take.
 
@@ -12,7 +14,7 @@ Other programming languages such as Python is fine, but c++ is strongly recommen
 
 You should also have a [codeforces](https://codeforces.com/) account as you may wish to do some example problems for practise.
 
-Some problems may be from POJ, or [orac](http://orac.amt.edu.au/cgi-bin/train/hub.pl).
+Some problems may be from POJ, or [orac](http://orac.amt.edu.au/cgi-bin/train/hub.pl), which is extremely popular :).
 
 ## [Basic Notes](/Basic_Notes/)
 - [Basic Graphs Theory](/Basic_Notes/Graph_Theory)
@@ -20,19 +22,8 @@ Some problems may be from POJ, or [orac](http://orac.amt.edu.au/cgi-bin/train/hu
 - [Basic Algorithms]()
 - [Basic Data Structures]()
 
-## Advanced Notes
-Advanced Graph Theory:
-- Floyd-Warshall
-- LCA
-- Bridges
-- Articulation Vertices
-- Directed Acyclic Graph (DAG)
-- Strongly Connected Components
-- Heavy-Light Decomposition
-- Centroid Decomposition
-- Bipartite Graphs
-- Vortex Graphs
-- Maximum Flow Problem
+## [Advanced Notes](/Advanced_Notes)
+- [Advanced Graph Theory](/Advanced_Notes/Graph_Theory):
 
 Segment Trees:
 - Lazy Propagation

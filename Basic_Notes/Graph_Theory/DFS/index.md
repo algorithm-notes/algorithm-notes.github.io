@@ -1,4 +1,4 @@
-#Depth First Search (DFS)
+# Depth First Search (DFS)
 
 [home](/)
 
