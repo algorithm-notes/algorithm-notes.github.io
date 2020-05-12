@@ -1,7 +1,5 @@
 # Home Page!!!
 
-## You have just arrived at *the* **BEST** ***algorithms*** page on the **entire** ***INTERNET***!!!!!!!!!!!!!!!!!!
-
 ## Prerequisites
 These notes assumes the reader knows basic c++ (c++ is WAY better than python, python is trashy) syntax including:
 - Basic control structures
