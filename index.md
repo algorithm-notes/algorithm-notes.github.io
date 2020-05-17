@@ -1,7 +1,7 @@
-# Home Page!!!
+# Home Page
 
 ## Prerequisites
-These notes assumes the reader knows basic c++ (c++ is WAY better than python, python is trashy) syntax including:
+These notes assumes the reader knows basic c++ (python is fine as well) syntax including:
 - Basic control structures
 - Functions
 - Variables, arrays
@@ -12,6 +12,7 @@ These notes assumes the reader knows basic c++ (c++ is WAY better than python, p
 The reader should know how to calculate complexity and estimate the amount of time the program will take.
 
 Other programming languages such as Python is fine, but c++ is strongly recommended for informatics students. Our example code will be in c++.
+Some problems, you even need python because it has big integers etc., something you have to code in c++ yourself and takes a time too long.
 
 You should also have a [codeforces](https://codeforces.com/) account as you may wish to do some example problems for practise.
 
@@ -25,19 +26,9 @@ Some problems may be from POJ, or [orac](http://orac.amt.edu.au/cgi-bin/train/hu
 
 ## [Advanced Notes](/Advanced_Notes)
 - [Advanced Graph Theory](/Advanced_Notes/Graph_Theory)
-
-Segment Trees:
-- Lazy Propagation
-
-Square Root Decomposition:
-- Bucket Method
-- Mo's Algorithm
-
-Dp optimisations:
-- Convex hull trick
-- Divide and Conquer
-- Sorted stack (Monostack)
-- Bitmask DP
+- [Segment Trees](/Advanced_Notes/Segment_Trees)
+- [Square root decomposition](/Advanced_Notes/SRD)
+- [Advanced DP](/Advanced_Notes/DP)
 
 ## Dark Magic Notes
 
