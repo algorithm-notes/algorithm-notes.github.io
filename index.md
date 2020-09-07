@@ -1,10 +1,6 @@
-<center>
-# Home Page
-</center>
+# <center> Home Page </center>
 
-<center>
-# The Ultimate Guide to Competitive Programming
-</center>
+# <center> The Ultimate Guide to Competitive Programming </center>
 
 ## Prerequisites
 These notes assumes the reader knows basic c++ (python is fine as well) syntax including:
