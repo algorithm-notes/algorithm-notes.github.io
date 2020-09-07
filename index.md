@@ -1,13 +1,19 @@
+<center>
 # Home Page
+</center>
+
+<center>
+# The Ultimate Guide to Competitive Programming
+</center>
 
 ## Prerequisites
 These notes assumes the reader knows basic c++ (python is fine as well) syntax including:
 - Basic control structures
-- Functions
+- Functions, structures
 - Variables, arrays
-- Vectors, queues, stacks
+- Vectors, queues, stacks (stl)
 - Pointers, pointer arithematic
-- Have fluency in c++
+- Fluency in c++
 
 The reader should know how to calculate complexity and estimate the amount of time the program will take.
 
@@ -32,25 +38,27 @@ Some problems may be from POJ, or [orac](http://orac.amt.edu.au/cgi-bin/train/hu
 
 ## Dark Magic Notes
 
-Computational Geometry:
-- Convex Hull
+[Computational Geometry]():
+- [Convex Hull]()
 
-Advanced Data Structures:
-- Self-balancing binary trees
-- Treaps
-- Order Statistics trees
-- Binary Index Tree (BIT)
-- Sparse Tables
+[Advanced Data Structures]():
+- [Self-balancing binary trees]()
+- [Treaps]()
+- [Order Statistics trees]()
+- [Binary Index Tree (BIT)]()
+- [Sparse Tables]()
 
-## Problem Specific Notes
+## Classical Algorithms
 
 Easier Problems:
-- Segment Problem
-- GCD
+- [Segment Problem]()
+- [GCD]()
 
 Medium Problems:
-- Knapsack Problem
-- Longest Increasing Sequence
+- [Knapsack Problem]()
+- [Longest Increasing Sequence (LIS)]()
+- [Dijkstra]()
 
 Harder Problems:
-- Travelling Salesman
+- [Travelling Salesman]()
+- [Inverse modular arithmatic]()
