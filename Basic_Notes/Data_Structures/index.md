@@ -1,6 +1,6 @@
 [home](/)
 
-# Data Structures.... yay!
+# Linear Data Structures
 
 Data structuers are extremely important in informatics. It organises data so we can update/query them easier.
 
@@ -10,3 +10,4 @@ Data structuers are extremely important in informatics. It organises data so we 
 - hashmap/hashset
 - range trees
 - priority queues 
+ 
