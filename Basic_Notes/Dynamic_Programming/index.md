@@ -2,8 +2,9 @@
 [home](/)
 ## Introduction
 Dynamic Programming is just a fancy name for "using previous computed results to compute more stuff". It trades memory for time.
+
 ## Minimal example (Fibonacci)
-It's up to you to decide the performance  difference!
+It's up to you to decide the performance difference!
 ### Without DP
 ```cpp
 int fib(int n) {
@@ -26,4 +27,4 @@ int fib(int n) {
 [this problem on orac](http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=aio19&problemid=1081) can be solved using DP and basic graph theory
 
 ## Pages under DP
-- [Knapsack]()
+- [Knapsack](/Basic_Notes/Dynamic_Programming/Knapsack)
