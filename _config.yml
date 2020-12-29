@@ -1,3 +1,1 @@
-theme: jekyll-theme-hacker
-title: [Algorithm Notes for Competitive Programming]
-description: [A site dedicated to notes for Competitive Programming. Written by Jerry Li and Arthur Sun]
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
