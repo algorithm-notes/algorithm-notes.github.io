@@ -4,7 +4,7 @@
 
 This website is written by three aspiring Informatics students who wish to extend their own skills by collating notes. The intended audience are high school students who wish to enter their country’s informatics training course and perhaps compete in major competitions such as the IOI.
 
-- It is assumed that you know about basic c++ syntax such as:
+It is assumed that you know about basic c++ syntax such as:
 - Control structures
 - Functions
 - Variables and arrays
