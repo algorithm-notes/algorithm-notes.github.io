@@ -40,6 +40,6 @@ Please enjoy and good luck with competitive programming.
 
 
 
-*Note*: Even though we are a guide on competitive programming, our main purpose is to help students in informatics programs. As such, we will try not to deviate from the IOI syllabus (https://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus.pdf), and any subjects outside this curriculum will be marked as such.
+*Note*: Even though we are a guide on competitive programming, our main purpose is to help students in informatics programs. As such, we will try not to deviate from the [IOI syllabus](https://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus.pdf), and any subjects outside this curriculum will be marked as such.
 
 */ancient*
