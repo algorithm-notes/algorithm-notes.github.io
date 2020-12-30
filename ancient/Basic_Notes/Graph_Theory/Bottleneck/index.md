@@ -1,0 +1,3 @@
+# Bottleneck
+
+[home](/)

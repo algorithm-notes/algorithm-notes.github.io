@@ -1,1 +1,6 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
+title: Algorithm Notes for Competitive Programming
+description: A site dedicated to notes for Competitive Programming. Written by Jerry Li and Arthur Sun, ..., and Tom He ;)
+
+mathjax:
+  enable: true
