@@ -1,4 +1,4 @@
-# Part 0: Introduction
+## Introduction
 
 This website is written by three aspiring Informatics students who wish to extend their own skills by collating notes. The intended audience are high school students who wish to enter their country’s informatics training course and perhaps compete in major competitions such as the IOI.
 
@@ -16,10 +16,12 @@ Disclaimer: At the time of writing, the authors have a modest ability and the ad
 
 Please enjoy and good luck with competitive programming.
 
-# Content
+## Content
 
 - [Basics](/1)
-- [Chapter 2 name etc.](http://tomhe88888.surge.sg)
+- [Chapter 2](http://tomhe88888.surge.sh)
+- [Chapter 3]()
+- [FAQ](faq??)
 
 
 
@@ -36,4 +38,4 @@ Please enjoy and good luck with competitive programming.
 
 Note: Even though we are a guide on competitive programming, our main purpose is to help students in informatics programs. As such, we will try not to deviate from the IOI syllabus (https://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus.pdf), and any subjects outside this curriculum will be marked as such.
 
-ps. something's ancient ...
+*ps. something's ancient ...*
