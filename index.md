@@ -1,5 +1,6 @@
 # Part 0: Introduction
-This book is written by three aspiring Informatics students who wish to extend their own skills by collating notes. The intended audience are high school students who wish to enter their country’s informatics training course and perhaps compete in major competitions such as the IOI.
+
+This website is written by three aspiring Informatics students who wish to extend their own skills by collating notes. The intended audience are high school students who wish to enter their country’s informatics training course and perhaps compete in major competitions such as the IOI.
 
 - It is assumed that you know about basic c++ syntax such as:
 - Control structures
@@ -15,10 +16,10 @@ Disclaimer: At the time of writing, the authors have a modest ability and the ad
 
 Please enjoy and good luck with competitive programming.
 
+# Content
 
-
-
-
+- [Basics](/1)
+- [Chapter 2 name etc.](http://tomhe88888.surge.sg)
 
 
 
