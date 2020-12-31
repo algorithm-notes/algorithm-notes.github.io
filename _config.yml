@@ -7,3 +7,5 @@ mathjax:
   enable: true
   combo: "tex-svg"
   tags: "ams"
+
+logo: unknown.png
